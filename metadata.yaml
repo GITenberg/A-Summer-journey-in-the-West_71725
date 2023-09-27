@@ -1,0 +1,26 @@
+_repo: A-Summer-journey-in-the-West_71725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Mrs. Eliza R.
+    gutenberg_agent_id: '56357'
+    url: http://www.gutenberg.org/2009/agents/56357
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71725'
+language: en
+pgterms:marc904: https://archive.org/details/summerjourneyinw00stee
+pgterms:marc905: 20220526060645steele
+pgterms:marc906: '1841'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bJohn. S. Taylor, and Co., $c1841.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Summer journey in the West
+url: http://www.gutenberg.org/ebooks/71725
