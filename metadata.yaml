@@ -1,11 +1,16 @@
 _repo: A-Summer-journey-in-the-West_71725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71725-h/images/cover.jpg
 creator:
   author:
     agent_name: Steele, Mrs. Eliza R.
     gutenberg_agent_id: '56357'
     url: http://www.gutenberg.org/2009/agents/56357
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71725#A-Summer-journey-in-the-West
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71725'
